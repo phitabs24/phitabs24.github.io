@@ -1,6 +1,8 @@
 ---
+layout: single
+title: "About Me"
 permalink: /about/
-title: "About"
+author_profile: true
 ---
 
 ![Achu Philemon Tabufor](..\assets\images\profile-photo.jpg){: style="max-width: 200px; border-radius: 100px; display: block; margin: 0 auto;" }

@@ -56,22 +56,21 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Achu Philemon Tabufor"
+  avatar : "/assets/images/profile-photo.jpg"
+  bio    : "Cybersecurity enthusiast building hands-on skills in threat detection, virtual labs, and network security."
+  location: "Bamenda, Cameroon"
+  email  : "phitabs24@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/phitabs24"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/phitabs24/"
+    - label: "Certifications"
+      icon: "fas fa-fw fa-certificate"
+      url: "/certifications/"
 
 footer:
   links:
@@ -84,6 +83,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/"
 
 defaults:
   # _posts
