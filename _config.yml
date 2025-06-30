@@ -113,3 +113,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  labs:
+    output: true
+    permalink: /labs/:name/
+
+timezone: Africa/Douala
