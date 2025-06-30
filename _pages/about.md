@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![Achu Philemon Tabufor](..\assets\images\profile-photo.jpg){: style="max-width: 200px; border-radius: 100px; display: block; margin: 0 auto;" }
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<br />
+
+Hi, I'm **Achu Philemon Tabufor**, a cybersecurity enthusiast dedicated to defending digital spaces through ethical practice and hands-on learning.  
+
+I'm currently earning the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) and preparing for the CompTIA Security+ exam, while building practical skills in:
+
+- Network analysis (Wireshark)
+- Log analysis (Splunk)
+- Offensive & defensive tools (Kali Linux, VMware)
+- Python scripting for automation
+
+I love turning theory into action—from dissecting network traffic to scripting small tools that can help spot risks. As I grow, I aim to specialize in **threat detection** and **incident response**, supporting organizations in staying secure and resilient.
+
+This portfolio captures my journey through labs, CTFs, and real-world projects. Let’s build something secure together. 🔐💻
