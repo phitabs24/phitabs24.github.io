@@ -6,6 +6,7 @@ permalink: /projects/kali-vm-setup/
 date: 2025-06-30
 categories: [Virtualization, Labs]
 tags: [Kali Linux, VMware, Lab Setup]
+author_profile: true
 ---
 
 ## Overview
