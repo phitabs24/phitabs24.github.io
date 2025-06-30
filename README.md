@@ -1,27 +1,42 @@
-# Minimal Mistakes remote theme starter
+# Achu Philemon Tabufor | Cybersecurity Portfolio 🚀
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Welcome to my cybersecurity portfolio! I'm Phil—passionate about threat detection, secure infrastructure, and hands-on learning. This site showcases my journey through labs, projects, and certifications as I build toward a career in offensive and defensive security.
 
 ---
 
-## Troubleshooting
+### 🧠 What You'll Find Here
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+- **Projects** — Real-world solutions, tools, and systems I’ve built or explored  
+- **Labs** — Practical walkthroughs of security challenges and simulations  
+- **Blog** — Reflections on my learning progress, tools I’m testing, and industry insights  
+- **Certifications** — Highlights from courses like Google Cybersecurity Certificate  
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+---
+
+### 🛠️ Built With
+
+- [Jekyll](https://jekyllrb.com/) + [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)  
+- GitHub Pages for hosting  
+- Dependabot for security and maintenance  
+- Custom collections and layouts for a flexible structure
+
+---
+
+### 🚧 Ongoing Development
+
+This portfolio is a living document—I'll be continuously adding new content, refining layouts, and sharing updates as I grow in the field.
+
+Feel free to fork, star, or reach out if you have questions or collaboration ideas.
+
+---
+
+### 👨🏽‍💻 Let’s Connect
+
+- [GitHub](https://github.com/phitabs24)  
+- [LinkedIn](https://www.linkedin.com/in/phitabs24/)  
+- [Certifications](https://phitabs24.github.io/certifications/)
+
+---
+
+> _“Security is not a product, it’s a process.”_  
+> — Bruce Schneier
