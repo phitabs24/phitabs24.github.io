@@ -9,6 +9,8 @@ main:
     url: /labs/
   - title: "Blog"
     url: /blog/
+  - title: "Certifications"
+    url: /certifications/
 
 #  - title: "Posts"
 #    url: /posts/

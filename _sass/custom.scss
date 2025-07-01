@@ -1,0 +1,54 @@
+.cert-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: start;
+  margin-top: 1rem;
+}
+
+.cert-card {
+  width: 250px;
+  text-align: center;
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.cert-card:hover {
+  transform: scale(1.02);
+}
+
+.cert-card img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar .author__avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.sidebar .author__avatar img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 120px;
+}
+
+
+
+//@media screen and (max-width: 768px) {
+//  .sidebar .author__avatar,
+//  .sidebar .author__bio {
+//    display: none !important;
+//  .sidebar {
+//    padding-top: 0;
+//  }
+//  }
+//}
+
