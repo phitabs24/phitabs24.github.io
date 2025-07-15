@@ -67,7 +67,7 @@ author:
       url: "https://github.com/phitabs24"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/phitabs24/"
+      url: "https://www.linkedin.com/in/achuphilemon/"
     - label: "Certifications"
       icon: "fas fa-fw fa-certificate"
       url: "/certifications/"
@@ -79,13 +79,13 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/phitabs24"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/philemontabufor"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/"
+      url: "https://facebook.com/philemontabufor"
 
 defaults:
   # _posts
