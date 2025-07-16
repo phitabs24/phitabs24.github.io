@@ -21,3 +21,10 @@ I'm currently earning the [Google Cybersecurity Professional Certificate](https:
 I love turning theory into action—from dissecting network traffic to scripting small tools that can help spot risks. As I grow, I aim to specialize in **threat detection** and **incident response**, supporting organizations in staying secure and resilient.
 
 This portfolio captures my journey through labs, CTFs, and real-world projects. Let’s build something secure together. 🔐💻
+
+[//]: # ( link to portfolio pages below)
+
+- [Projects](/projects/)
+- [Labs](/labs/)
+- [Blog](/blog/)
+- [Certifications](/certifications/)
