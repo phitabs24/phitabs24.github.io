@@ -22,6 +22,19 @@ github_username: phitabs24
 minimal_mistakes_skin: default
 search: true
 
+# Add this to inject custom head content (SEO tags)
+head_scripts:
+  - _includes/head-custom.html
+
+# Table of contents (TOC) settings
+toc: true
+toc_sticky: true
+toc_label: "On this page"
+toc_icon: "list"
+toc:
+  min_level: 2
+  max_level: 3
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -53,6 +66,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Achu Philemon Tabufor"
@@ -128,7 +142,7 @@ collections:
     output: true
     permalink: /labs/:name/
 
-timezone: Africa/Douala
+timezone: null
 
 sass:
   style: compressed

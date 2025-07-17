@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "tzinfo-data"
+  gem "jekyll-seo-tag"
 
   # ✅ Required for Ruby 3.4+ and to prevent 'uninitialized constant TZInfo::Timezone' errors
   gem "tzinfo", "~> 2.0"
